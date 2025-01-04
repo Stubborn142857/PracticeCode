@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3">
   <diagram name="Page-1" id="Wcca_VMJb_qtWDMakM25">
-    <mxGraphModel>
+    <mxGraphModel dx="2620" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-1" value="Interface1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="197" width="2356" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-2" value="Interface2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="2356" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-3" value="接口2" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2411" y="45" width="100" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-4" value="接口1" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2411" y="222" width="100" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-5" value="机构多法人编号" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="45" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-6" value="循环记录条数" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="277" y="45" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-7" value="循环体LIST1" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="483" y="45" width="146" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-8" value="开户行行号" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="679" y="45" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-9" value="电子银行服务合约编号" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="869" y="45" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-10" value="支付系统电子联行号" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1139" y="45" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-11" value="交易机构号" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1393" y="45" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-12" value="社保资金投资账户类别代码" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1583" y="45" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-13" value="账号" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="45" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-14" value="币种代码" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2043" y="45" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-15" value="钞汇代码" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2217" y="45" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-16" value="机构多法人编号" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="222" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-17" value="客户账号" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1869" y="222" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-18" value="币种代码" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2043" y="222" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-19" value="钞汇代码" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2217" y="222" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-20" value="字段映射" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E0G2aS_CwM0-UcYjh3cX-3" target="E0G2aS_CwM0-UcYjh3cX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-21" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E0G2aS_CwM0-UcYjh3cX-5" target="E0G2aS_CwM0-UcYjh3cX-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-22" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E0G2aS_CwM0-UcYjh3cX-13" target="E0G2aS_CwM0-UcYjh3cX-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-23" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E0G2aS_CwM0-UcYjh3cX-14" target="E0G2aS_CwM0-UcYjh3cX-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0G2aS_CwM0-UcYjh3cX-24" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E0G2aS_CwM0-UcYjh3cX-15" target="E0G2aS_CwM0-UcYjh3cX-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
